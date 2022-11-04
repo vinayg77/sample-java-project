@@ -62,6 +62,8 @@ public class SampleJavaProject implements Runnable {
     public final void sayHello() {
         System.out.printf("Hello, %s!%n", name);
 		System.out.printf("Hello");
+		System.out.printf("Hello");
+		System.out.printf("Hello");
     }
 
     @Override
